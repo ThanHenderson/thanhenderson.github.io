@@ -4,7 +4,7 @@
 	font-family: 'Playfair Display', serif;
 }
 .container{
-	padding-top: 50px;
+	padding-top: 100px;
 	padding-bottom: 50px;
 	width: 90%;
 	margin: auto;
@@ -32,4 +32,8 @@ a{
 
 #fa{
 	color: LightGrey
+}
+
+body{
+	background-color: #e5e4e2
 }
