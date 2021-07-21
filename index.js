@@ -2,6 +2,11 @@ const template = document.createElement('template')
 
 template.innerHTML = `
 <title>Artilect</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="./index-css.css">
+
 <div class="header">
 	<nav class="navbar fixed-top navbar-light bg-light">
 		<a class="navbar-brand" href="index.html">
