@@ -1,5 +1,9 @@
 body{
 	background-color: #ffffff;
+	background-image: url('maple.jpg');
+	  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .container{
