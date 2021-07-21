@@ -1,9 +1,9 @@
 body{
-	background-color: #ffffff;
-	background-image: url('maple.jpg');
-	  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%,
+								rgba(121,9,90,1) 42%,
+								rgba(255,51,0,0.829551889115021) 70%,
+								rgba(1,0,1,1) 100%);
 }
 
 .container{
@@ -11,7 +11,7 @@ body{
 	padding-bottom: 50px;
 	width: 90%;
 	margin: auto;
-	margin-top: 3.5%;
+	margin-top: 5%;
 	background-color: #ffffff;
 }
 

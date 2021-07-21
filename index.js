@@ -11,7 +11,7 @@ template.innerHTML = `
 		</a>
 		<ul class="nav list-inline ml-auto ">
             <li class="nav-item"><a class="nav-link" href="index.html">About</a></li>
-            <li class="nav-item"><a class="nav-link" href="cv.html">CV</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="cv.html">CV</a></li>-->
 			<li class="nav-item"><a class="nav-link" href="blog.html">Artilect</a></li>
 		</ul>
 	</nav>
