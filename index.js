@@ -11,6 +11,7 @@ template.innerHTML = `
         <ul>
             <li><a href="index.html">About</a></li>
             <li><a href="blog.html">Artilect</a></li>
+            <li><a href="links.html">Links</a></li>
         </ul>
     </nav>
 `
