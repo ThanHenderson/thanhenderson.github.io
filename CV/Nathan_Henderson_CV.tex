@@ -1,0 +1,56 @@
+
+\documentclass[letterpaper,11pt]{article}
+
+% Choose bibliography style for formatting list of publications
+\usepackage[style=ieee,url=false,doi=false,maxbibnames=99,sorting=ydnt,dashed=false]{biblatex}
+\bibliography{papers}
+
+% Choose theme, e.g. black, RedViolet, ForestGreen, MidnightBlue
+\def\theme{black}
+
+% More predefined colors can be found in 
+% https://en.wikibooks.org/wiki/LaTeX/Colors
+% Example photograph taken from Wikimedia Commons
+% https://commons.wikimedia.org/wiki/File:Kiara_Krit_passport.jpg
+
+\usepackage{simplecv}
+
+\boldname{Surname}{Name}{N.}
+
+\begin{document}
+
+% % Heading
+% \headinginline{Nathan Henderson}{
+%     %Website: \website{example.com} \\ 
+%     \email{nathan.t.henderson@outlook.com} \\
+%     \email{nthender@ualberta.ca} \\
+%     1.204.720.2316
+% }
+% \import{sections/}{coverletter.tex}
+
+% \pagebreak
+\headinginline{Nathan Henderson}{
+    %Website: \website{example.com} \\ 
+    \email{nathan.t.henderson@outlook.com} \\
+    \email{nthender@ualberta.ca} \\
+    1.204.720.2316
+}
+% Page One
+\import{sections/}{education.tex}
+\import{sections/}{projects.tex}
+\import{sections/}{experience.tex}
+
+
+%\pagebreak
+
+% Page Two
+%\import{sections/}{teaching.tex}
+\sidebyside
+    {\import{sections/}{skills.tex}}
+    {\import{sections/}{languages.tex}}
+%\import{sections/}{projects.tex}
+\import{sections/}{publications.tex}
+\import{sections/}{awards.tex}
+%\import{sections/}{extracurricular.tex}
+
+\end{document}

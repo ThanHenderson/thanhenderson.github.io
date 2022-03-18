@@ -1,0 +1,7 @@
+CV/*.bbl
+CV/*.aux
+CV/*.bcf
+CV/*.blg
+CV/*.log
+CV/*.out
+CV/*.xml
