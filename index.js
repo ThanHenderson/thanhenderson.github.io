@@ -1,3 +1,13 @@
+const fonts = document.createElement('template')
+
+fonts.innerHTML = `
+<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet">
+`
+document.head.prepend(fonts.content)
+
+
 const template = document.createElement('template')
 
 template.innerHTML = `
