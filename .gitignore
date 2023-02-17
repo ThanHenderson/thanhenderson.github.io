@@ -5,3 +5,7 @@ CV/*.blg
 CV/*.log
 CV/*.out
 CV/*.xml
+**/.DS_Store
+CV/*.fdb_latexmk
+CV/*.fls
+CV/*.synctex.gz
