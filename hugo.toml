@@ -1,4 +1,4 @@
-baseURL = 'https://www.natethom.net'
+baseURL = 'https://www.natethom.net/'
 languageCode = 'en-ca'
 title = 'natethom'
 theme = 'PaperMod'
