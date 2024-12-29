@@ -1,0 +1,54 @@
+baseURL = 'https://thanhenderson.github.io/'
+languageCode = 'en-ca'
+title = 'natethom'
+theme = 'PaperMod'
+titleCaseStyle = 'none'
+pluralizeListTitles = false
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+    unsafe = true
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+    block = true
+
+# Main menu definition
+[[menu.main]]
+identifier = "home"
+name = "home"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "fieldnotes"
+name = "fieldnotes"
+url = "/fieldnotes/"
+weight = 20
+
+[[menu.main]]
+identifier = "personal"
+name = "personal"
+url = "/personal/"
+weight = 30
+
+
+# Home page information
+[params.homeInfoParams]
+Title = "Nathan Henderson"
+Content = ""
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:than.henderson@proton.me"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/ThanHenderson"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/nathanthenderson/"
+
+[params]
+mainSections = ["fieldnotes", "personal"]
