@@ -39,16 +39,16 @@ Title = "Nathan Henderson"
 Content = ""
 
 [[params.socialIcons]]
-name = "email"
-url = "mailto:than.henderson@proton.me"
-
-[[params.socialIcons]]
 name = "github"
 url = "https://github.com/ThanHenderson"
 
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/nathanthenderson/"
+
+[[params.socialIcons]]
+name = "bluesky"
+url = "https://bsky.app/profile/thanthom.bsky.social"
 
 [params]
 mainSections = ["fieldnotes", "personal"]
