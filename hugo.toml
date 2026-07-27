@@ -1,5 +1,5 @@
 baseURL = 'https://natethom.net/'
-languageCode = 'en-ca'
+locale = 'en-CA'
 title = 'natethom'
 theme = 'PaperMod'
 titleCaseStyle = 'none'
@@ -32,23 +32,10 @@ name = "personal"
 url = "/personal/"
 weight = 30
 
-
-# Home page information
 [params.homeInfoParams]
-Title = "Nathan Henderson"
+Title = ""
 Content = ""
 
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/ThanHenderson"
-
-[[params.socialIcons]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/nathanthenderson/"
-
-[[params.socialIcons]]
-name = "bluesky"
-url = "https://bsky.app/profile/thanthom.bsky.social"
-
 [params]
+author = "natethom"
 mainSections = ["fieldnotes", "personal"]

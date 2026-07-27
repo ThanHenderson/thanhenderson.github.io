@@ -18,6 +18,20 @@ Peter Komarzyca and Anelia Komarzyca (née Dworniak)
     Religion: Greek Catholic
     Profession: Carpenter and none
 ```
+![1916 Canadian Census: Lines 26-32](images/Commer1916Census.jpg)
+```
+Lines 26-32
+Peter and Nellie Commer
+    Address: 2505 McDonald Ave. Brandon, Manitoba
+    Age: 33 and 31
+    Nativity: Austria
+    Immigrated: 1903 and 1904
+    Naturalized: 1910
+    Religion: Roman Catholic
+    Language: Polish
+    Profession: Fireman
+```
+
 ![1921 Canadian Census: Line 2](images/Komarzyca1921Census.jpg)
 ```
 Line 2
@@ -31,6 +45,18 @@ Peter Komar and Nellie Komar
     Language: Ukrainian
     Profession: Fireman and none
 ```
+![1926 Canadian Census: Lines 4-10](images/Komar1926Census.jpg)
+```
+Lines 4-10
+Peter and Nellie Komar
+    Address: 2503 McDonald Ave. Brandon, Manitoba
+    Age: 45 and 42
+    Nativity: Poland
+    Immigrated: 1903 and 1904
+    Ethnicity: Polish
+    Language: Polish
+```
+
 {{< figure src="images/PeterConnie.jpg" title="Peter and Cousin Connie" align="center" width=50%" >}}
 {{< figure src="images/SophiaGrannyAlbert.jpg" title="Aunt Sophia with Granny and Uncle Albert" align="center" width=50% >}}
 {{< figure src="images/KaySophieMary1934.jpg" title="Aunts Kate, Sophie, and Mary in 1934" align="center" width=50% >}}
