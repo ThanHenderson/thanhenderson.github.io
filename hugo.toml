@@ -32,6 +32,13 @@ name = "personal"
 url = "/personal/"
 weight = 30
 
+[[menu.main]]
+identifier = "photos"
+name = "photos"
+url = "https://photos.natethom.net/"
+weight = 40
+
+
 [params.homeInfoParams]
 Title = ""
 Content = ""
